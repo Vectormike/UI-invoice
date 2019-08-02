@@ -1,3 +1,9 @@
+# Invoicing App : 
+
+The application is the user-facing part of an online invoicing web application.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
